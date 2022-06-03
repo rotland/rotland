@@ -1,5 +1,5 @@
 -<h1 align="center">Hi 👋, I'm rotland</h1>
-<h3 align="center">A passionate data ananlyst & cloud computintig enthusiast</h3>
+<h3 align="center">A passionate data scientist  & cloud computintig enthusiast</h3>
 
 <p align="left"> <a href="https://twitter.com/@agboolar3" target="blank"><img src="https://img.shields.io/twitter/follow/@agboolar3?logo=twitter&style=for-the-badge" alt="@agboolar3" /></a> </p>
 
