@@ -1,19 +1,19 @@
 -<h1 align="center">Hi 👋, I'm rotland</h1>
-<h3 align="center">A passionate data scientist  & cloud computing enthusiast</h3>
+<h3 align="center">A passionate Data Engineer & data analysis enthusiast</h3>
 
 <p align="left"> <a href="https://twitter.com/@agboolar3" target="blank"><img src="https://img.shields.io/twitter/follow/@agboolar3?logo=twitter&style=for-the-badge" alt="@agboolar3" /></a> </p>
 
-- 🔭 I’m currently working on **my first project with python**
+- 🔭 I’m currently working on **project on data enineering and analysis**
 
-- 🌱 I’m currently learning **marchine learning and cloud computing**
+- 🌱 I’m currently learning **data engineering & data analysis **
 
-- 🤝 I’m looking for help with **writing machine models**
+- 🤝 I’m looking for help with **End to End Data Engineering project**
 
 - 📝 I regularly write articles on [https://medium.com/new-story](https://medium.com/new-story)
 
-- 💬 Ask me about **python,machine learning**
+- 💬 Ask me about **python,Sql,data warehouse,databricks,data modelling,hadoop,cloud,data visualisation**
 
-- 📫 How to reach me **agboolar21@gmail.com**
+- 📫 How to reach me **agboolar3@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
