@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/@agboolar3" target="blank"><img src="https://img.shields.io/twitter/follow/@agboolar3?logo=twitter&style=for-the-badge" alt="@agboolar3" /></a> </p>
 
-- 🔭 I’m currently working on **projects on Data Enineering and Analysis**
+- 🔭 I’m currently working on **projects on Data Analysis & Enineering**
 
 - 💬 Ask me about **python,Sql,data warehouse,databricks,data modelling,hadoop,cloud,data visualisation**
 
